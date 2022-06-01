@@ -1,2 +1,2 @@
-## bee-maze
+## bee-maze-
 A MakeCode project arcade
